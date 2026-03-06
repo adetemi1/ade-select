@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.synopsis {
+    color: chocolate;
+    background-color: green;
+    font-style: italic;
+}
+.button {
+  color: #FFF;
+  background-color: #5995DA;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;
+  border-radius: 5px;
+  width: 200px;
+  /*box-sizing:border-box;*/
+  margin: auto;
+}
+.pages {
+    width: 600px;
+    margin: 0 auto;
+}
+.call-to-action {
+    background-color: blueviolet;
+    font-style: italic;
+}
